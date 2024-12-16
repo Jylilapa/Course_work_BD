@@ -1,5 +1,5 @@
 import psycopg2
-from config import config
+from src.config import config
 from api_vacancies import HHParser
 
 
