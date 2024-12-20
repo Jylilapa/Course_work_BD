@@ -1,6 +1,6 @@
 import psycopg2
 from src.config import config
-from api_vacancies import HHParser
+from src.api_vacancies import HHParser
 
 
 def create_database(db_name):
